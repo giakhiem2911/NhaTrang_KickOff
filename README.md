@@ -1,2 +1,0 @@
-# AndroidApp
-Android Application Development
